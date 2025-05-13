@@ -1,0 +1,23 @@
+{
+  "name": "mabelka-assessment-lharrak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lharrak-botaina/mabelka-assessment-Lharrak.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lharrak-botaina/mabelka-assessment-Lharrak/issues"
+  },
+  "homepage": "https://github.com/lharrak-botaina/mabelka-assessment-Lharrak#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
